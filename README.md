@@ -11,4 +11,12 @@ will help them to be updated about the severeness of the disease.
 Python
 
 # Project Mechanism
+The program gets live reliable data from the site of BBC where the cases of corona virus is update regularly.
+WinToast10: This package is used to create notification toast messages.
+BeautifulSoup: This package is used to fetch the html data from BBc and converts it to a condensed form.
+Request: The request library is used to request the server of BBC to get the data.
 
+
+
+# Video Link for the project working:
+https://www.youtube.com/watch?v=ua3r8rwY3cE
